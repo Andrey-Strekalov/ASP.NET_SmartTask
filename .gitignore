@@ -377,3 +377,8 @@ FodyWeavers.xsd
 
 # Ignore client-side libraries (managed by package manager)
 SmartTask/SmartTask/wwwroot/lib/
+
+
+*.db
+*.db-shm
+*.db-wal
